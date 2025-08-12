@@ -27,6 +27,6 @@
 
 🖼 HTML5
 
-🛡 JavaScript (ES6+)
+🛡 JavaScript
 
 🎯 Optional: React Hooks for state management
