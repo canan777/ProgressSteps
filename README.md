@@ -5,6 +5,7 @@
 ## 🚀Animated Progress Steps
 
 ✅This project is an animated progress steps component that allows users to follow a step-by-step process through a modern and interactive interface.
+
 ✅Each step is enhanced with transition animations, making it both visually appealing and smooth in terms of user experience. ✨
 
 ## 🎯 Features
