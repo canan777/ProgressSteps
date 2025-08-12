@@ -2,11 +2,12 @@
 
 ![](./src/ProgressSteps.gif)
 
-🚀 Animated Progress Steps
-This project is an animated progress steps component that allows users to follow a step-by-step process through a modern and interactive interface.
-Each step is enhanced with transition animations, making it both visually appealing and smooth in terms of user experience. ✨
+##🚀Animated Progress Steps
 
-🎯 Features
+✅This project is an animated progress steps component that allows users to follow a step-by-step process through a modern and interactive interface.
+✅Each step is enhanced with transition animations, making it both visually appealing and smooth in terms of user experience. ✨
+
+##🎯 Features
 🔄 Step-by-step navigation with backtracking support
 
 🎨 CSS animations for smooth transition effects
@@ -17,7 +18,8 @@ Each step is enhanced with transition animations, making it both visually appeal
 
 🛠 Easy customization (colors, sizes, number of steps)
 
-🛠 Technologies Used
+##🛠 Technologies Used
+
 ⚛️ React – Component-based architecture
 
 🎨 CSS3 – Custom animations and styles
